@@ -1,12 +1,12 @@
-/* .button-panel {
+.button-panel {
   display: flex;
   flex-direction: column;
-} */
+}
 
-.button-panel {
+/* .button-panel {
   display: flex;
   justify-items: center;
   justify-content: space-between;
   height: 100px;
   border: none;
-}
+} */

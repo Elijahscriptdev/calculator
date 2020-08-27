@@ -1,0 +1,9 @@
+.button-panel {
+  display: flex;
+  flex-direction: column;
+  height: 100px;
+}
+
+.group {
+  height: 100px;
+}

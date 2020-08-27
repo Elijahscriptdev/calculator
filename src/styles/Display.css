@@ -1,0 +1,11 @@
+.display-container {
+  background-color: gray;
+  height: 100px;
+  color: white;
+  font-weight: bold;
+  font-size: 64px;
+  padding: 10px 20px;
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+}
